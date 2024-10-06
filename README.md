@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/112324284?v=4" alt="" align="center" width="100%"/>
+<img src="https://avatars.githubusercontent.com/u/112324284?v=4" alt="" align="center" margin="auto"/>
 <h1 align="center">Hi 👋, I'm Ammar (xLe0x)</h1>
 <h3 align="center">CS Student | Junior Pentester | Python Lover</h3>
 
