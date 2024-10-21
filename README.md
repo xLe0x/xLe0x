@@ -3,12 +3,12 @@
 <h3 align="center">CS Student | Junior Pentester | Python Lover</h3>
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces.
-- Watch anime and TV shows
-- Play videogames
+- Watch CTF hacking lives
+- Play CTFs
+- Building Scripts
 
 ## 📚 Learning
 - Pentesting
-- Node.js
 - Active Directory
 - Privilege escalation
+- Web Hacking
