@@ -20,20 +20,20 @@
   </a>
 </div>
 
----
+______________________________________________________________________
 
 ## 🚀 My Learning Path
 
 <div align="center">
-  <img src="/mnt/data/Level 1.gif" alt="Learning Path" width="100%">
+  <img src="./sec-levels.gif" alt="Learning Path" width="100%">
 </div>
 
-- **Current Level:** Level 3  
+- **Current Level:** Level 3\
   (Ongoing: OSEP, eWPTX, OSWP, OSED)
 
 - **Future Goals:** Master **Mobile Pentesting** and add certifications like eMAPT.
 
----
+______________________________________________________________________
 
 ## 📅 Hobbies
 
@@ -41,7 +41,7 @@
 - 🎮 Playing **CTFs**
 - 🛠️ Building **scripts and tools**
 
----
+______________________________________________________________________
 
 ## 📚 Currently Learning
 
@@ -50,7 +50,7 @@
 - 🔑 **Privilege Escalation** for Linux & Windows
 - 🌐 **Web Hacking**
 
----
+______________________________________________________________________
 
 ## 📈 My Goals
 
@@ -59,7 +59,7 @@
 - 🚀 Contribute to the **security community** through blogs and tools
 - 🧠 Stay curious and keep growing every day!
 
----
+______________________________________________________________________
 
 ### 🤝 Let's Connect
 
