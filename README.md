@@ -27,8 +27,10 @@
 <div align="center">
   <img src="/mnt/data/Level 1.gif" alt="Learning Path" width="100%">
 </div>
+
 - **Current Level:** Level 3  
-  (Ongoing: OSEP, eWPTX, OSWP, OSED)  
+  (Ongoing: OSEP, eWPTX, OSWP, OSED)
+
 - **Future Goals:** Master **Mobile Pentesting** and add certifications like eMAPT.
 
 ---
