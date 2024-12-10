@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./sec-levels.gif" alt="Learning Path" width="100%">
-</div>
-
 <h1 align="center">Hi 👋, I'm Ammar (xLe0x)</h1>
 <h3 align="center">CS Student | Junior Pentester | Python Lover</h3>
 
