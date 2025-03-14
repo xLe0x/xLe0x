@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar (xLe0x)</h1>
-<h3 align="center">CS Student | Junior Pentester | Python Lover</h3>
+<h3 align="center">CS Student | Frontend Developer | Problem Solver</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/ammarxle0x">
@@ -20,40 +20,31 @@ ______________________________________________________________________
 
 ## 🚀 My Learning Path
 
-<div align="center">
-  <img src="./sec-levels.gif" alt="Learning Path" width="100%">
-</div>
-
-- **Current Level:** Level 3\
-  (Ongoing: OSEP, eWPTX, OSWP, OSED)
-
-- **Future Goals:** Master **Mobile Pentesting** and add certifications like eMAPT.
+- **Frontend Stack:** Focusing on **Angular, TypeScript, and modern UI/UX principles**  
+- **Problem Solving:** Practicing **DSA** and algorithmic challenges daily  
 
 ______________________________________________________________________
 
 ## 📅 Hobbies
 
-- 🔴 Watching **CTF hacking lives**
-- 🎮 Playing **CTFs**
-- 🛠️ Building **scripts and tools**
+- 🎨 Building **modern UI/UX experiences**
+- 🛠️ Developing **frontend projects with real-world use cases**
+- 🧩 Solving **algorithmic problems and coding challenges**
 
 ______________________________________________________________________
 
 ## 📚 Currently Learning
 
-- 💻 **Pentesting** fundamentals and advanced techniques
-- 🖥️ **Active Directory** exploitation
-- 🔑 **Privilege Escalation** for Linux & Windows
-- 🌐 **Web Hacking**
+- 🌐 **Advanced Frontend Development** (Angular, State Management, Performance Optimization)  
+- 🔢 **Data Structures & Algorithms** (JS)  
 
 ______________________________________________________________________
 
 ## 📈 My Goals
 
-- 🌟 Master both **network** and **web pentesting**
-- 📱 Learn **Mobile Pentesting**
-- 🚀 Contribute to the **security community** through blogs and tools
-- 🧠 Stay curious and keep growing every day!
+- 🏆 Become a **high-level frontend developer**  
+- 🎯 Master **Problem Solving** and competitive programming  
+- 🚀 Build unique and innovative frontend projects  
 
 ______________________________________________________________________
 
