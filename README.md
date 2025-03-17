@@ -21,7 +21,7 @@ ______________________________________________________________________
 ## 🚀 My Learning Path
 
 - **Frontend Stack:** Focusing on **Angular, TypeScript, and modern UI/UX principles**  
-- **Problem Solving:** Practicing **DSA** and algorithmic challenges daily  
+- **Problem Solving & DSA:** Practicing **Data Structures & Algorithms** and algorithmic challenges  
 
 ______________________________________________________________________
 
@@ -43,7 +43,7 @@ ______________________________________________________________________
 ## 📈 My Goals
 
 - 🏆 Become a **high-level frontend developer**  
-- 🎯 Master **Problem Solving** and competitive programming  
+- 🎯 Master **Problem Solving & DSA** to improve my coding skills  
 - 🚀 Build unique and innovative frontend projects  
 
 ______________________________________________________________________
